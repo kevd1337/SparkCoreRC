@@ -13,7 +13,7 @@ The car is controlled via HTTP POST requests to spark cores REST resource.
 - [Breadboard](http://www.adafruit.com/products/64)
 - [Battery Holder](http://www.adafruit.com/products/727)
 - Batteries
-- Something to mount components on (I used a mix of open beam, duct tape, and cardboard)
+- Something to mount components on: I used a mix of open beam, duct tape, and cardboard
 - Optional: Spark Core Power Shield, ball bearing, Litium Ion Battery
 
 ## Circuit Layout
