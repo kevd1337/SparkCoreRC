@@ -14,6 +14,7 @@ The car is controlled via HTTP POST requests to spark cores REST resource.
 - [Battery Holder](http://www.adafruit.com/products/727)
 - Batteries
 - Something to mount components on: I used a mix of open beam, duct tape, and cardboard
+- Some device with web browser with controller loaded to control RC car
 - Optional: Spark Core Power Shield, [ball caster](http://www.adafruit.com/product/1200), Litium Ion Battery
 
 ## Circuit Layout
