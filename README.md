@@ -8,13 +8,17 @@ The car is controlled via HTTP POST requests to spark cores REST resource.
 
 ## Bill of Materials
 - 2 x [Continuous Servo](http://www.adafruit.com/product/154)
+- 2 x [Servo Wheel](http://www.adafruit.com/product/167)
+- [Spark Core](http://www.adafruit.com/product/2127)
+- [Breadboard](http://www.adafruit.com/products/64)
+- [Battery Holder](http://www.adafruit.com/products/727)
+- Batteries
+- Something to mount components on (I used a mix of open beam, duct tape, and cardboard)
+- Optional: Spark Core Power Shield, ball bearing, Litium Ion Battery
 
 ## Circuit Layout
 
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/circuit_bb.png)
-
-## API
-TODO
 
 ## Screenshots
 
@@ -29,6 +33,3 @@ TODO
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-5.jpg)
 
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-6.jpg)
-
-## Demo
-Comming soon
