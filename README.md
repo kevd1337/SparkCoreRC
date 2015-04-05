@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-1.jpg)
 
-Simple Spark core enabled RC car that uses two continuous servos with wheels attached on end, with an optional bearing in lieu of a second set of wheels.
+Simple Spark core enabled RC car that uses two continuous servos with wheels attached on end, with an optional ball in lieu of a second set of wheels.
 
 The car is controlled via HTTP POST requests to spark cores REST resource.
 
@@ -14,7 +14,7 @@ The car is controlled via HTTP POST requests to spark cores REST resource.
 - [Battery Holder](http://www.adafruit.com/products/727)
 - Batteries
 - Something to mount components on: I used a mix of open beam, duct tape, and cardboard
-- Optional: Spark Core Power Shield, ball bearing, Litium Ion Battery
+- Optional: Spark Core Power Shield, [ball caster](http://www.adafruit.com/product/1200), Litium Ion Battery
 
 ## Circuit Layout
 
