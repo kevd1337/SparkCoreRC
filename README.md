@@ -6,11 +6,12 @@ Simple Spark core enabled RC car that uses two continuous servos with wheels att
 
 The car is controlled via HTTP POST requests to spark cores REST resource.
 
-## Component Manifest
+## Bill of Materials
 TODO
 
 ## Circuit Layout
-TODO
+
+![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/circuit_bb.png)
 
 ## API
 TODO
