@@ -5,8 +5,11 @@ The car is controlled via HTTP POST requests to spark cores REST resource.
 
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-1.jpg)
 
+## Manifest
+TODO
+
 ## Circuit Layout
-Coming soon
+TODO
 
 ## API
 TODO
@@ -24,5 +27,3 @@ TODO
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-5.jpg)
 
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-6.jpg)
-
-![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-controller.jpg)
