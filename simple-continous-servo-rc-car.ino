@@ -1,6 +1,6 @@
 /**
  * Simple Spark core enabled RC car that uses two continuous servos with wheels 
- * attached on end, with an optional bearing in lieu of a second set of wheels. 
+ * attached on end, with an optional ball in lieu of a second set of wheels. 
  * The car is controlled via HTTP POST requests to spark cores REST resource.
  * 
  * Basic car componnent layout (top view)
@@ -17,7 +17,7 @@
  *         [ power source for ]
  *         [ servos           ]
  *         [                  ]
- *         [     bearing      ]
+ *         [      ball        ]
  * 
  *                REAR
  * 
