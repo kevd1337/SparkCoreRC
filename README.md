@@ -7,7 +7,7 @@ Simple Spark core enabled RC car that uses two continuous servos with wheels att
 The car is controlled via HTTP POST requests to spark cores REST resource.
 
 ## Bill of Materials
-TODO
+- 2 x [Continuous Servo](http://www.adafruit.com/product/154)
 
 ## Circuit Layout
 
