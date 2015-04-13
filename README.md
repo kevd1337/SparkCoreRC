@@ -1,4 +1,4 @@
-# simple-sparkcore-rc-car
+# SparkCoreRC
 
 ![Screenshot](https://github.com/kevd1337/simple-sparkcore-rc-car/blob/master/screenshot-1.jpg)
 
